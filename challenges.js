@@ -33,7 +33,11 @@ addOne(1) //=> 2
 addOne(-5) //=> -4
 -----------------------------------------------------------------*/
 // Your solution for 01-addOne here:
+funtion addOne(num) {
+  return num + 1;
+}
 
+console.log(addONe(11))
 
 
 
